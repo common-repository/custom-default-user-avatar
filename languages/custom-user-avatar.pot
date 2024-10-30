@@ -1,0 +1,489 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Avatar 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-20 14:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: custom-user-avatar"
+
+#. file name
+#: includes/wpua-options-page.php:167
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr ""
+
+#: includes/wpua-options-page.php:148 includes/wpua-options-page.php:157
+msgid "(only for Contributors & Subscribers)"
+msgstr ""
+
+#: includes/wpua-options-page.php:84
+msgid "Add avatar button to Visual Editor"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:128
+msgid "Alignment:"
+msgstr ""
+
+#: includes/wpua-options-page.php:95
+msgid "Allow Contributors & Subscribers to upload avatars"
+msgstr ""
+
+#: includes/wpua-options-page.php:186
+msgid "Allow users to edit avatars"
+msgstr ""
+
+#. allowed file extensions
+#: includes/class-custom-default-user-avatar.php:214
+#, php-format
+msgid "Allowed Files: %s"
+msgstr ""
+
+#: includes/wpua-options-page.php:118
+msgid "Always use the browser file uploader to upload avatars"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:144
+msgid "Attachment Page"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:224
+msgid "Author"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-widget.php:88
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-functions.php:501
+#: includes/class-custom-default-user-avatar-functions.php:702
+msgid "Avatar"
+msgstr ""
+
+#: includes/wpua-options-page.php:233 includes/wpua-options-page.php:239
+msgid "Avatar Display"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:215
+#: includes/class-custom-default-user-avatar-admin.php:273
+#: includes/wpua-media-page.php:23
+msgid "Avatars"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:361
+msgid "Blank"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:162
+msgid "Caption"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:132
+msgid "Center"
+msgstr ""
+
+#: includes/wpua-options-page.php:119
+msgid ""
+"Check this if another plugin is conflicting with the WordPress Media "
+"Uploader."
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:415
+#: includes/class-custom-default-user-avatar.php:182
+msgid "Choose Image"
+msgstr ""
+
+#. user display name
+#: includes/class-custom-default-user-avatar.php:178
+#, php-format
+msgid "Choose Image: %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "chrismoretti"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:226
+msgctxt "column name"
+msgid "Date"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:223
+msgctxt "column name"
+msgid "File"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:225
+msgctxt "column name"
+msgid "Uploaded to"
+msgstr ""
+
+#: includes/wpua-options-page.php:211
+msgid "Crop avatars to exact dimensions"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:117
+msgid "Custom"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-custom-default-user-avatar-admin.php:214
+#: includes/class-custom-default-user-avatar-admin.php:414
+#: includes/class-custom-default-user-avatar-widget.php:21
+#: includes/wpua-options-page.php:31 includes/wpua-tinymce-window.php:19
+msgid "WP User Avatar 2.0"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:145
+msgid "Custom URL"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:549
+#: includes/wpua-options-page.php:287 includes/wpua-options-page.php:293
+msgid "Default Avatar"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:180
+#: includes/class-custom-default-user-avatar-list-table.php:537
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-widget.php:80
+msgid "Description:"
+msgstr ""
+
+#: includes/wpua-options-page.php:106
+msgid "Disable Gravatar and use only local avatars"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:511
+msgid "Edit"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:161
+msgid "Error in deleting."
+msgstr ""
+
+#: includes/wpua-options-page.php:297
+msgid ""
+"For users without a custom avatar of their own, you can either display a "
+"generic logo or a generated one based on their e-mail address."
+msgstr ""
+
+#: includes/wpua-options-page.php:265
+msgid "G &#8212; Suitable for all audiences"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:362
+msgid "Gravatar Logo"
+msgstr ""
+
+#: includes/wpua-options-page.php:203
+msgid "Height"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:469
+msgid "https://wordpress.org/support/plugin/custom-default-user-avatar/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/chrismoretti/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/custom-default-user-avatar/"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:363
+msgid "Identicon (Generated)"
+msgstr ""
+
+#: includes/wpua-functions.php:65 includes/wpua-functions.php:74
+msgid "Image"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:143
+msgid "Image File"
+msgstr ""
+
+#. [avatar_upload] shortcode
+#: includes/class-custom-default-user-avatar-widget.php:16
+#, php-format
+msgid "Insert %s"
+msgstr ""
+
+#: includes/wpua-tinymce.php:53 includes/wpua-tinymce.php:87
+msgid "Insert Avatar"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:168 includes/wpua-tinymce-window.php:180
+msgid "Insert into Post"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:114
+msgid "Large"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:133
+msgid "Left"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:233
+#: includes/class-custom-default-user-avatar-admin.php:234
+msgid "Library"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:139
+msgid "Link To:"
+msgstr ""
+
+#: includes/wpua-options-page.php:253 includes/wpua-options-page.php:259
+msgid "Maximum Rating"
+msgstr ""
+
+#. file size in KB
+#: includes/class-custom-default-user-avatar.php:204
+#: includes/wpua-options-page.php:175
+#, php-format
+msgid "Maximum upload file size: %s."
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:115
+msgid "Medium"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:333
+#: includes/class-custom-default-user-avatar.php:365
+msgid "Memory exceeded. Please try another smaller file."
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:365
+msgid "MonsterID (Generated)"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:360
+msgid "Mystery Man"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:210
+msgid "No media attachments found."
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:158
+msgid "Open link in a new window"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:227
+#: includes/class-custom-default-user-avatar.php:229
+#: includes/wpua-tinymce-window.php:113
+msgid "Original Size"
+msgstr ""
+
+#: includes/wpua-options-page.php:266
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:484
+#: includes/class-custom-default-user-avatar-admin.php:545
+#: includes/wpua-functions.php:49 includes/wpua-functions.php:62
+#: includes/wpua-functions.php:70 includes/wpua-functions.php:142
+#: includes/wpua-tinymce-window.php:82
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-shortcode.php:234
+msgid "Profile updated."
+msgstr ""
+
+#: includes/wpua-options-page.php:267
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:416
+msgid "Remove"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:239
+msgid "Remove Image"
+msgstr ""
+
+#: includes/wpua-options-page.php:194
+msgid "Resize avatars on upload"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:520
+msgid "Restore"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:366
+msgid "Retro (Generated)"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:134
+msgid "Right"
+msgstr ""
+
+#: includes/wpua-media-page.php:63
+msgid "Search"
+msgstr ""
+
+#. search query
+#: includes/wpua-media-page.php:30
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#. post title
+#: includes/class-custom-default-user-avatar-list-table.php:311
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:224
+#: includes/class-custom-default-user-avatar-admin.php:225
+#: includes/class-custom-default-user-avatar-admin.php:451
+#: includes/wpua-options-page.php:69
+msgid "Settings"
+msgstr ""
+
+#: includes/wpua-options-page.php:246
+msgid "Show Avatars"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:109 includes/wpua-tinymce-window.php:122
+msgid "Size:"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:470
+msgid "Support Forums"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:328
+msgid "This file is not an image. Please try another."
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:233
+#: includes/class-custom-default-user-avatar.php:235
+#: includes/wpua-tinymce-window.php:116
+msgid "Thumbnail"
+msgstr ""
+
+#. time ago
+#: includes/class-custom-default-user-avatar-list-table.php:416
+#, php-format
+msgctxt "time ago"
+msgid "%s ago"
+msgstr ""
+
+#. time from now
+#: includes/class-custom-default-user-avatar-list-table.php:410
+#, php-format
+msgctxt "time from now"
+msgid "%s from now"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-widget.php:74
+msgid "Title:"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:526
+msgid "Trash"
+msgstr ""
+
+#. directory path
+#: includes/class-custom-default-user-avatar.php:340
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:416
+#: includes/class-custom-default-user-avatar.php:243
+msgid "Undo"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:402
+msgid "Unpublished"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-shortcode.php:264
+msgid "Update Profile"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar.php:194
+#: includes/class-custom-default-user-avatar.php:195
+#: includes/wpua-tinymce-window.php:83 includes/wpua-tinymce-window.php:174
+msgid "Upload"
+msgstr ""
+
+#: includes/wpua-options-page.php:147 includes/wpua-options-page.php:156
+msgid "Upload Size Limit"
+msgstr ""
+
+#. uploaded files
+#: includes/class-custom-default-user-avatar-list-table.php:164
+#, php-format
+msgctxt "uploaded files"
+msgid "All %s"
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:150
+msgid "URL:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Use any image from your WordPress Media Library as a custom user avatar. Add "
+"your own Default Avatar."
+msgstr ""
+
+#: includes/wpua-tinymce-window.php:89
+msgid "User Name"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:549
+msgid "View"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:364
+msgid "Wavatar (Generated)"
+msgstr ""
+
+#. either wp_footer() or wp_print_footer_scripts() hook.
+#: includes/class-custom-default-user-avatar-resource-manager.php:175
+#, php-format
+msgid ""
+"We're sorry, but your theme's page template didn't make a call to %s, which "
+"is required by WP User Avatar 2.0. Please add this call to your page "
+"templates."
+msgstr ""
+
+#: includes/wpua-options-page.php:199
+msgid "Width"
+msgstr ""
+
+#: includes/wpua-options-page.php:268
+msgid "X &#8212; Even more mature than above"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-list-table.php:421
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/class-custom-default-user-avatar-admin.php:157
+msgid "You are not allowed to delete this post."
+msgstr ""
+
+#: includes/wpua-media-page.php:10
+msgid "You do not have permission to upload files."
+msgstr ""
